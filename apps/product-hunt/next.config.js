@@ -7,4 +7,7 @@ module.exports = withNx({
     // See: https://github.com/gregberge/svgr
     svgr: true,
   },
+  images: {
+    domains: ['ph-files.imgix.net', 'ph-avatars.imgix.net'],
+  },
 });
