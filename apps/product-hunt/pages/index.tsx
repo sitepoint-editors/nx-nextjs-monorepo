@@ -14,7 +14,7 @@ import {
   StyledCardTitle,
   StyledContainer,
   StyledGrid,
-} from '../public/styles';
+} from '@nx-nextjs-monorepo/components';
 import ALL_POSTS_QUERY from '../queries/all-posts';
 import Product from '../types/product';
 

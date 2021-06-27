@@ -19,6 +19,9 @@
     }
   },
   "projects": {
+    "components": {
+      "tags": []
+    },
     "product-hunt": {
       "tags": []
     },
