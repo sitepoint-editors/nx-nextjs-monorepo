@@ -10,4 +10,8 @@ module.exports = withNx({
   images: {
     domains: ['ph-files.imgix.net', 'ph-avatars.imgix.net'],
   },
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
+  webpack5: false,
 });
